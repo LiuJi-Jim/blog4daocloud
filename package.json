@@ -1,9 +1,0 @@
-{
-  "name": "hexo",
-  "version": "2.0.6",
-  "private": true,
-  "dependencies": {
-    "hexo-migrator-wordpress": "0.0.6",
-    "hexo-generator-feed": "0.0.10"
-  }
-}
