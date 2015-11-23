@@ -20,6 +20,4 @@ script:
     - echo "Run test cases here"
     - echo ""
     - echo "Below shows how to use services"
-    - ping -c 2 mongodb
-    - ping -c 2 mysql
-    - ping -c 2 redis
+    - echo ""
